@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x8c1549C28CcfFE17656706abC25B87e48199aE0d",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8c1549c28ccffe17656706abc25b87e48199ae0d",
+  "CONTRACT_ADDRESS": "0x452C52fbC9065E3FC69ad69F1C144A7c4BB5195e",
+  "SCAN_LINK": "https://etherscan.io/address/0x452C52fbC9065E3FC69ad69F1C144A7c4BB5195e",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Mainnet",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
-  "NFT_NAME": "Mfer Plants",
-  "SYMBOL": "MFP",
+  "NFT_NAME": "MferPlantsMonstera",
+  "SYMBOL": "MFPM",
   "MAX_SUPPLY": 2001,
   "WEI_COST": 6900000000000000,
   "DISPLAY_COST": 0.0069,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mferplant",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mferplantsmonstera",
   "SHOW_BACKGROUND": true
 }
